@@ -1,5 +1,5 @@
-# Galactico
-Galactico landing page
+# Tailwind CSS Starter template
+
 
 # Tailwindcss Installation guide
 
