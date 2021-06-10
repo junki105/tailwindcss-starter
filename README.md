@@ -1,0 +1,2 @@
+# galactico
+Galactico landing page
